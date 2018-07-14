@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (10.0.2)
+    minitest (5.10.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  minitest (~> 5.10)
+
+BUNDLED WITH
+   1.16.1
